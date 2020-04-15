@@ -28,10 +28,12 @@
             android:layout_height="wrap_content"
             android:layout_centerVertical="true"
             android:layout_toRightOf="@+id/checkbox"
+            android:layout_toLeftOf="@+id/itemQuantityTV"
             android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
             android:text="Corn Pasta"
             android:textStyle="bold"
-            android:textSize="22sp"
+            android:textSize="20sp"
             android:textColor="@android:color/black"/>
 
 
